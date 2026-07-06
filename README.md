@@ -6,6 +6,7 @@ Stellar Shield is a modern, user-friendly, and security-centric Web3 wallet dash
 
 ## 🎬 Project Demo Video
 
+
 👉 <img width="800" height="362" alt="giflik-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/ba733495-70da-4bdf-b8c1-ac04220cac1a" />
 
 > 💡 **Want to see the full, uncut workflow?** > If you would like to watch the complete step-by-step wallet connection, multi-asset transfer processes, and live network confirmations in full detail, you can watch our comprehensive video here:  
@@ -62,15 +63,17 @@ Proof of successful Freighter extension connection showing the active account st
 
 2. Successful Testnet Transaction
 The active transaction signing state via the Freighter extension, executing a secure operation on the Stellar Testnet:
+
 <img width="1126" height="476" alt="transfer" src="https://github.com/user-attachments/assets/0896c76b-4705-43ca-bb51-3fa4aa4a173d" />
 <img width="442" height="405" alt="security_confirm" src="https://github.com/user-attachments/assets/6cb1cdb0-81b9-40fb-b5fa-e891ecb03091" />
 <img width="435" height="778" alt="freighter" src="https://github.com/user-attachments/assets/65c9adf6-7c5e-4fb8-94f3-a8a59c4fc475" />
 
-3. Transaction Result Shown to the User
+4. Transaction Result Shown to the User
 The dynamic success UI notifying the user with the final network operation status and exposing the verifiable Tx Hash code:
+
 <img width="916" height="456" alt="send1" src="https://github.com/user-attachments/assets/53ab2c96-e98e-4b66-adbe-dcf1ebb657fa" />
 
-4. Dynamic QR Code Component (Bonus Feature)
+6. Dynamic QR Code Component (Bonus Feature)
 Real-time peer-to-peer payment address sharing interface driven by the user's active public key:
 
 <img width="750" height="567" alt="qr kod" src="https://github.com/user-attachments/assets/76137057-50d0-4322-8450-d5622445e9a5" />
@@ -84,8 +87,9 @@ The multi-asset ecosystem panel integrated with instant text-filtering logic for
 
 🗺️ Future Roadmap
 
--WalletConnect & Deep Linking: Integrating WalletConnect infrastructure to streamline mobile app interactions, allowing users to scan the dApp QR code to seamlessly trigger LOBSTR or Vibrant mobile wallet approvals.
--Live Phishing Registry: Connecting the native Security Detector to global malicious-address API databases to instantly display critical red alerts if a user attempts a transfer to a blacklisted malicious wallet.
+WalletConnect & Deep Linking: Integrating WalletConnect infrastructure to streamline mobile app interactions, allowing users to scan the dApp QR code to seamlessly trigger LOBSTR or Vibrant mobile wallet approvals.
+
+Live Phishing Registry: Connecting the native Security Detector to global malicious-address API databases to instantly display critical red alerts if a user attempts a transfer to a blacklisted malicious wallet.
 
 ---
 
