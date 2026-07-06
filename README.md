@@ -14,7 +14,7 @@ Stellar Shield is a modern, user-friendly, and security-centric Web3 wallet dash
 
 ---
 
-## 🚀 Features
+## 🚀 Features:
 
 * 🔐 **Multi-Wallet Integration:** Full integration with the official **Freighter** wallet, along with ecosystem simulation models for Albedo and xBull in a sandbox environment.
 * 🛡️ **Smart Security Detector (Security Audit):** A native module performing real-time `SSL/TLS Connection Status` checks and running a `Wallet Injection Interceptor` shield to mitigate malicious extension exploits.
@@ -91,11 +91,14 @@ WalletConnect & Deep Linking: Integrating WalletConnect infrastructure to stream
 
 Live Phishing Registry: Connecting the native Security Detector to global malicious-address API databases to instantly display critical red alerts if a user attempts a transfer to a blacklisted malicious wallet.
 
----
 
 🧬 Tech Stack
 Frontend: React.js (JavaScript / JSX)
+
 Styling: Tailwind CSS (Fully Responsive Layout)
+
 Icons: Lucide React
+
 Charts: Recharts
+
 Stellar SDK: @stellar/freighter-api
