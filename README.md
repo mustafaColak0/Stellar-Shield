@@ -35,8 +35,8 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/stellar-shield.git
-   cd stellar-shield
+   git clone https://github.com/mustafaColak0/Stellar-Shield.git
+   cd Stellar-Shield
     ```
 
 2.  **Install Dependencies:**
