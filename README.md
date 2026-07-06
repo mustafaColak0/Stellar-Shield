@@ -35,7 +35,7 @@ Follow these steps to run the project locally on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/stellar-shield.git](https://github.com/YOUR_GITHUB_USERNAME/stellar-shield.git)
+   git clone https://github.com/YOUR_GITHUB_USERNAME/stellar-shield.git
    cd stellar-shield
     ```
 
@@ -48,7 +48,7 @@ Follow these steps to run the project locally on your machine:
     ```bash
     npm start
     ```
-    Your browser will automatically open the project at http://localhost:3000._
+    Your browser will automatically open the project at http://localhost:3000 .
 
 ---
 
@@ -68,12 +68,12 @@ The active transaction signing state via the Freighter extension, executing a se
 <img width="442" height="405" alt="security_confirm" src="https://github.com/user-attachments/assets/6cb1cdb0-81b9-40fb-b5fa-e891ecb03091" />
 <img width="435" height="778" alt="freighter" src="https://github.com/user-attachments/assets/65c9adf6-7c5e-4fb8-94f3-a8a59c4fc475" />
 
-4. Transaction Result Shown to the User
+3. Transaction Result Shown to the User
 The dynamic success UI notifying the user with the final network operation status and exposing the verifiable Tx Hash code:
 
 <img width="916" height="456" alt="send1" src="https://github.com/user-attachments/assets/53ab2c96-e98e-4b66-adbe-dcf1ebb657fa" />
 
-6. Dynamic QR Code Component (Bonus Feature)
+4. Dynamic QR Code Component (Bonus Feature)
 Real-time peer-to-peer payment address sharing interface driven by the user's active public key:
 
 <img width="750" height="567" alt="qr kod" src="https://github.com/user-attachments/assets/76137057-50d0-4322-8450-d5622445e9a5" />
