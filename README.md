@@ -83,17 +83,15 @@ The multi-asset ecosystem panel integrated with instant text-filtering logic for
 ---
 
 🗺️ Future Roadmap
-WalletConnect & Deep Linking: Integrating WalletConnect infrastructure to streamline mobile app interactions, allowing users to scan the dApp QR code to seamlessly trigger LOBSTR or Vibrant mobile wallet approvals.
 
-Live Phishing Registry: Connecting the native Security Detector to global malicious-address API databases to instantly display critical red alerts if a user attempts a transfer to a blacklisted malicious wallet.
+-WalletConnect & Deep Linking: Integrating WalletConnect infrastructure to streamline mobile app interactions, allowing users to scan the dApp QR code to seamlessly trigger LOBSTR or Vibrant mobile wallet approvals.
+-Live Phishing Registry: Connecting the native Security Detector to global malicious-address API databases to instantly display critical red alerts if a user attempts a transfer to a blacklisted malicious wallet.
+
+---
 
 🧬 Tech Stack
 Frontend: React.js (JavaScript / JSX)
-
 Styling: Tailwind CSS (Fully Responsive Layout)
-
 Icons: Lucide React
-
 Charts: Recharts
-
 Stellar SDK: @stellar/freighter-api
