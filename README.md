@@ -41,7 +41,7 @@ Follow these steps to run the project locally on your machine:
 
 2.  **Install Dependencies:**
     ```bash
-    npm install --legacy-peer-deps
+    npm install --force
     ```
 
 3.  **Start the Development Server:**
